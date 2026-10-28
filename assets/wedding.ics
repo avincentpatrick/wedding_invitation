@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Vince and Jelai//Wedding//EN
+BEGIN:VEVENT
+UID:vince-jelai-2027-08-28@avincentpatrick.github.io
+DTSTAMP:20261028T000000Z
+DTSTART;TZID=Asia/Manila:20270828T150000
+DTEND;TZID=Asia/Manila:20270828T220000
+SUMMARY:Wedding of Vince & Jelai
+LOCATION:Minor Basilica of the National Shrine of Our Lady of Mount Carmel\, Broadway corner 5th St\, Mariana\, Quezon City
+DESCRIPTION:Ceremony 3:00 PM. Reception 5:30 PM at Le Reve Pool and Events Venue\, 28 Sgt. Esguerra Ave\, Diliman\, Quezon City. https://avincentpatrick.github.io/wedding_invitation/
+END:VEVENT
+END:VCALENDAR
